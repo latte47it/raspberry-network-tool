@@ -1,4 +1,11 @@
 ```markdown
+## aggiornamento su github
+cd ~/raspberry-network-tool
+git status
+git add .
+git commit -m "Descrizione della modifica"
+git push
+
 # Raspberry Network Tool
 
 Tool Bash per Raspberry Pi/Linux per la gestione e il controllo della rete locale.
